@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: tanzu-java-web-app
-    links:
+  links:
     - url: https://tanzu-java-web-app.dev.coryjett.net/
       title: Tanzu Java Web App
       icon: dashboard
